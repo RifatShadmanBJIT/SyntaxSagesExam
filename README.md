@@ -1,4 +1,3 @@
-
 # SyntaxSagesExam
 BJIT Git-Github Exam 01. 
 17/08/2023
@@ -67,3 +66,65 @@ This project is licensed under the MIT License.
 - Map Integration: Integration with mapping services to provide directions to the selected restaurant.
 - User Accounts: Create accounts to save favorite restaurants, track dining history, and receive personalized recommentations.
 
+
+## Getting Started
+*Follow these steps to get Local Dining Guide up and running on your local machine.*
+### Prerequisites
+**Web Browser:** Ensure you have a modern web browser installed to access the Local Dining 
+Guide interface.
+
+**Internet Connection:** A stable internet connection is required to fetch restaurant data and 
+images.
+
+### Installation
+1. **Clone the Repository:** Start by cloning this repository to your local machine.
+ ```sh 
+git clone https://github.com/yourusername/local-dining-guide.git
+```
+2. **Navigate to Directory:** Move into the project directory.
+```sh 
+cd local-dining-guide
+```
+3. **Launch the Application:** Open the index.html file in your web browser.
+```sh 
+open index.html
+```
+
+
+## Usage
+
+- **Search for Restaurant**: Use the search functionary to find dining options based on your preference
+- **Explore Restaurant Profiles**: Click on a restaurant to view its detailed profile,
+including menu items and reviews.
+- **Read and Write Reviews**: Share your dining experiences by leaving reviews
+and ratings for restaurants.
+- **Save Favourites**: Create an account to save your favourite restaurants and
+receive personalized recommendations.
+- **Get Directions**: Click on the map integration to get directions to the selected
+restaurant.
+
+Thank you to the following contirbutors who have helped to improve this project:
+
+| Name | Email | Phone |
+| ------ | ------ | ------ |
+| Promiti Dasgupta | promiti.dasgupta@bjitacademy.com | +8801234567 |
+| Rushmia Ahmed | rushmia.ahmed@bjitacademy.com| +8801234567 |
+| Ahasanul Haque |ahasanul.haque.bjitacademy.com| +8801234567 |
+| Rifat Shadman | rifat.shadman@bjitacademy.com | +8801234567 |
+| Arifa Akter | arifa.akter@bjitacademy.com | +8801234567 |
+
+
+# Contact Information
+
+For any inquiries or support, please email us at *[support@localdiningguide.com](mailto:support@localdiningguide.com)* or visit our website *[http://www.localdiningguide.com](http://www.localdiningguide.com).*
+<br/>
+
+**Follow us on social media:**
+
+- ![Twitter Icon](https://example.com/twitter-icon.png) **Twitter:** [@localdiningguide](https://twitter.com/localdiningguide)
+- ![Facebook Icon](https://example.com/facebook-icon.png) **Facebook:** [LocalDiningGuide](https://www.facebook.com/LocalDiningGuide)
+- ![Instagram Icon](https://example.com/instagram-icon.png) **Instagram:** [@localdiningguide](https://www.instagram.com/localdiningguide)
+
+<br/>
+
+We hope you enjoy using Local Dining Guide to discover fantastic dining options in your area! Bon appétit! ![icon](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.gettyimages.com%2Fid%2F1346902373%2Fvector%2Fplate-fork-and-spoon-travel-destination-line-icon-vector-stock-illustration.jpg%3Fs%3D612x612%26w%3Dgi%26k%3D20%26c%3DZ35nsvSTKpfjJXJRN9AcMixuuCpX7KeSTT4hNOFCCNA%3D&tbnid=weiN_ksRvSa7IM&vet=12ahUKEwiTu6CXseOAAxWDo2MGHV4_AvgQMyhWegUIARCuAg..i&imgrefurl=https%3A%2F%2Fwww.gettyimages.com%2Fdetail%2Fillustration%2Fspoon-and-fork-outline-icon-pixel-perfect-royalty-free-illustration%2F1094064958&docid=hTWmfQqHfahVZM&w=612&h=612&q=icon%20of%20plate%20with%20spoons&ved=2ahUKEwiTu6CXseOAAxWDo2MGHV4_AvgQMyhWegUIARCuAg)
