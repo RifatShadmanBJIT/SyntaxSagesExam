@@ -1,3 +1,8 @@
+# SyntaxSagesExam
+BJIT Git-Github Exam 01. 
+17/08/2023
+
+
 # Project Logo
 ![Project Logo](downloads/Project_logo_eng.png)
 
@@ -39,3 +44,4 @@ Provide contact details for any project-related inquiries.
 
 ## License
 This project is licensed under the MIT License.
+
